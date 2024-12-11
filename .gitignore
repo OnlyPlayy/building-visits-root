@@ -1,0 +1,13 @@
+# Node.js (frontend)
+node_modules/
+dist/
+
+# PHP (backend)
+vendor/
+uploads/
+
+# Systemowe i tymczasowe
+*.log
+*.cache
+.DS_Store
+Thumbs.db
