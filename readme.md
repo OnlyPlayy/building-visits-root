@@ -7,7 +7,7 @@ Sposób uruchomienia aplikacji lokalnie:
    - `npm install`
    - `npm run serve`
 4. W terminalu przejdź do backendu i zainstaluj potrzebne zależności
-   - `cd ../backend`
+   - `cd backend`
    - `composer install`
 6. Uruchom aplikację XAMPP a w niej moduły Apache i MySQL
 7. Na stronie `localhost/phpmyadmin` w przeglądarce zaimportuj plik znajdujący się w `db/schema.sql`
